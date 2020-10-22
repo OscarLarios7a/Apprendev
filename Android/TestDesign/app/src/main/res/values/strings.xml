@@ -1,6 +1,8 @@
 <resources>
-    <string name="app_name">TestDesign</string>
+    <string name="app_name"></string>
     <string name="myText">Este es mi Texto </string>
     <string name="myTextTwo">Otro Texto mas </string>
-    <string name="myTextName">Escribe Tu Nombre </string>
+    <string name="myTextName">Ingresa tu Usuario:</string>
+    <string name="myTextPassword">Ingresa tu Password:</string>
+    <string name="myTextBtn"> Acceder </string>
 </resources>
