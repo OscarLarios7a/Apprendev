@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpleComponents</string>
+
+
+    <string name="principal_show_message">Get the text</string>
+
+    <string name="messageView">Ingresa un Texto</string>
+
+</resources>
